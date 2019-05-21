@@ -1,0 +1,9 @@
+.WeatherInfo h3 {
+  margin: 10px;
+  padding-top: 20px;
+  color: white;
+}
+
+.error {
+  color: white;
+}
