@@ -1,4 +1,4 @@
-.WeatherForm input {
+.RacerForm input {
   margin: 10px;
   line-height: 50px;
   padding: 5px;
@@ -8,12 +8,12 @@
   border-bottom: 1px solid grey;
 }
 
-.WeatherForm input[type="text"] {
+.RacerForm input[type="text"] {
   width: 25%;
   background-color: rgba(0, 0, 0, 0);
 }
 
-.WeatherForm input[type="submit"] {
+.RacerForm input[type="submit"] {
   background-color: #f16051;
   color: #fff;
   border: 2px solid grey;
